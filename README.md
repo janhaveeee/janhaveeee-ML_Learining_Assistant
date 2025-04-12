@@ -1,1 +1,1 @@
-# janhaveeee-ML_Learining_Assistant
+# AI_Learining_Assistant
